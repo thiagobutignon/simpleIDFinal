@@ -1,0 +1,300 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden !important;
+}
+
+
+.headerTop {
+    padding-top: 24px;
+}
+
+header>h3 {
+    text-align: center;
+}
+
+.logotipoHome{
+    width: 270px;
+    height: auto;
+}
+
+header>img {
+    display: block;
+    margin: 0 auto;
+}
+
+.enviaForm {
+    margin-top: 24px;
+}
+
+.features {
+    margin-top: 24px;
+    background-color: #25478D;
+}
+
+.features>h3 {
+    padding: 38px 0 24px 35px;;
+    margin-bottom: 0px;
+}
+
+.features:last-child {
+    padding-bottom: 12px;
+}
+
+.feature {
+   padding-left: 35px;
+}
+
+.textoFeature {
+    padding-bottom: 24px;
+}
+
+.barra {
+    width: 100%;
+    height: 72px;
+    background-color: #B83180;
+    margin-bottom: 0px;
+}
+
+.logofooter{
+    display: block;
+    margin: 0 auto;
+    padding: 16px 0 16px 0;
+}
+
+.barra {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.barra>i {
+    color: #fff;
+    font-size: 1.7em;
+    display: inline-block;
+    padding: 0 8px 0 0;
+} 
+
+/* PRIVACIDADE */
+
+.linha {
+    width: 100%;
+    height: 7px;
+    background-color: #B83180;
+}
+
+.logotipo {
+    width: 100%;
+    height: 56px;
+    background-color: #25478D;
+    padding-top: 13px;
+}
+
+.usuario {
+    margin: 24px 0 24px 0;
+}
+
+.acoes {
+    margin: 0 0 24px 0;
+}
+
+
+/* Aprovar nome */
+
+.botoesInferiores {
+    justify-content: center;
+}
+
+.botoesInferiores>button {
+    margin-left: 5px;
+}
+
+/* Nome */
+
+.nomeSection {
+    display: block;
+    margin: 180px 0 0 0;
+    padding: 0 0 154px 0;
+}
+
+.nomeSection>img {
+    display: block;
+    margin: 0 auto;
+    width: 275px;
+    height: auto;
+}
+
+.aprovacao {
+    text-align: center;
+    padding-top: 36px;
+}
+
+.variavelAprovacao {
+    text-align: center;
+}
+
+/* Email */
+
+.emailSection {
+    display: block;
+    margin: 150px 0 0 0;
+    padding: 0 0 122px 0;
+}
+
+.emailSection>img {
+    display: block;
+    margin: 0 auto;
+    width: 275px;
+    height: auto;
+}
+
+.emailAprovacao {
+    margin-top: 36px;
+}
+
+/* CNH ou RG */
+
+.btnCnh {
+    display: block;
+    margin: 0 auto;
+}
+
+.cnhSection {
+    display: block;
+    margin: 180px 0 0 0;
+    padding: 0 0 145px 0;
+}
+
+.cnhSection>img {
+    display: block;
+    margin: 0 auto;
+    width: 275px;
+    height: auto;
+}
+
+small {
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+
+/* SALDO */
+
+.saldo {
+    width: 100%;
+    height: 114px;
+    background-color: #25478D;
+}
+
+.comBorda {
+    width: 56px;
+    height: 56px;
+    border-radius: 50px;
+}
+
+.featuresSaldo {
+    margin-top: 24px;
+}
+
+.featuresSaldo>h3 {
+    padding: 38px 0 24px 35px;;
+    margin-bottom: 0px;
+}
+
+.featuresSaldo:last-child {
+    padding-bottom: 12px;
+}
+
+.featureSaldo {
+   padding-left: 35px;
+}
+
+.textoFeatureSaldo {
+    padding-bottom: 20px;
+}
+
+.cadastrarInfos, .meuPerfil {
+    display: block;
+    margin: 0 auto;
+}
+
+.topoSaldo {
+    padding-top: 20px;
+}
+
+.moeda {
+    width: 24px;
+    height: 24px;
+    top: 15px;
+    left: 25px;
+}
+
+.saldoLabel {
+    top: 15px;
+    margin-bottom: 0;
+}
+
+.botaoSaldo {
+    margin-top: 95px;
+}
+
+.botaoMeusDados {
+    margin-top: 150px;
+    padding-bottom: 25px;
+}
+
+.meusDados {
+    display: block;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+/* Sucesso tela */
+.sucessoSection {
+    background-color: #28A745;
+    height: 100vh;
+}
+
+.alertaSucesso {
+    text-align: center;
+}
+
+.iconeGravado {
+    padding-bottom: 20px;
+}
+
+.boxGeralSucesso {
+    margin-top: 70%;
+}
+
+.btnContinuar {
+    margin-top: 200px;
+}
+
+/* Adicionar infos */
+
+.adicionarInfos {
+    background-color: #343A40;
+    height: 100vh;
+}
+
+.addInfos {
+    padding-top: 24px;
+}
+
+.toqueAdd {
+    padding-top: 24px;
+}
+
+.addInformacoes {
+    padding-top: 10px;
+}
+
+.botaoAddInfos {
+    margin-top: 260px;
+}
